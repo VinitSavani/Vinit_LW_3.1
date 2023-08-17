@@ -32,13 +32,13 @@ class student
 	
 	getdata()
 	{
-		cout << endl << "Enter ID :- " << id << endl ;
-		cout << "Enter name :- " << name << endl ;
-		cout << "Enter age :- " << age << endl ;
-		cout << "Enter course :- " << course << endl ;
-		cout << "Enter email :- " <<  email << endl ;
-		cout << "Enter city :- " << city << endl ;
-		cout << "Enter collage :- " << collage << endl ;
+		cout << endl << "ID :- " << id << endl ;
+		cout << "name :- " << name << endl ;
+		cout << "age :- " << age << endl ;
+		cout << "course :- " << course << endl ;
+		cout << "email :- " <<  email << endl ;
+		cout << "city :- " << city << endl ;
+		cout << "collage :- " << collage << endl ;
 	}
 };
 
